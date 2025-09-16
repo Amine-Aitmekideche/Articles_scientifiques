@@ -19,8 +19,7 @@ Il propose un **dashboard moderne** avec navigation fluide et un **système de r
 
 1. Cloner le repository :
 ```bash
-git clone <url-du-repo>
-cd <nom-du-projet>
+git clone https://github.com/Amine-Aitmekideche/Articles_scientifiques.git
 ```
 2. Installer les dépendances :
 ```bash
