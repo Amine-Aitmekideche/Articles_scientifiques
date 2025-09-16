@@ -1,0 +1,211 @@
+{
+  "favorite": [
+    {
+      "id": "1",
+      "title": "La découverte d'une nouvelle espèce de papillon",
+      "samary": "Une étude approfondie sur la biologie et le comportement de la nouvelle espèce de papillon découverte dans la forêt amazonienne.",
+      "authors": "Dr. Marie Dupont, Dr. Pierre Martin",
+      "institutions": "Université de Paris, Institut de Recherche sur la Biodiversité",
+      "integralText": "Le texte intégral de cette étude est disponible pour les chercheurs et les amateurs de papillons. Il offre une analyse détaillée de la morphologie, du cycle de vie et de l'habitat de la nouvelle espèce.",
+      "pdfUrl": "https://drive.google.com/file/d/19iwQ6RAikVDVJ9AWRt9wi9p1or5VUjIU/view",
+      "reference": "Nature, Volume 543, Pages 123-125 (2017)",
+      "keyWords": "papillon, biodiversité, forêt amazonienne"
+    },
+    {
+      "id": "2",
+      "title": "Les implications de la robotique dans l'industrie manufacturière",
+      "samary": "Une analyse approfondie des avantages et des défis de l'utilisation de robots dans les processus de fabrication.",
+      "authors": "Prof. Jean Leclerc, Dr. Emma Dubois",
+      "institutions": "École Polytechnique, Centre de Recherche sur la Robotique Industrielle",
+      "integralText": "Cet article examine comment l'automatisation robotique peut améliorer l'efficacité et la productivité dans l'industrie manufacturière tout en discutant des considérations éthiques et sociales.",
+      "pdfUrl": "https://drive.google.com/drive/folders/1IlmqYB-Z0j7PNtnJXCkiwqMG_BSINSuM",
+      "reference": "Journal of Robotics and Automation, Volume 29, Issue 2, Pages 201-215 (2022)",
+      "keyWords": "robotique, automatisation, industrie manufacturière"
+    },
+    {
+      "id": "3",
+      "title": "La découverte d'une nouvelle espèce de papillon",
+      "samary": "Une étude approfondie sur la biologie et le comportement de la nouvelle espèce de papillon découverte dans la forêt amazonienne.",
+      "authors": "Dr. Marie Dupont, Dr. Pierre Martin",
+      "institutions": "Université de Paris, Institut de Recherche sur la Biodiversité",
+      "integralText": "Le texte intégral de cette étude est disponible pour les chercheurs et les amateurs de papillons. Il offre une analyse détaillée de la morphologie, du cycle de vie et de l'habitat de la nouvelle espèce.",
+      "pdfUrl": "https://drive.google.com/drive/folders/1IlmqYB-Z0j7PNtnJXCkiwqMG_BSINSuM",
+      "reference": "Nature, Volume 543, Pages 123-125 (2017)",
+      "keyWords": "papillon, biodiversité, forêt amazonienne",
+      "category": "Biologie"
+    },
+    {
+      "id": "4",
+      "title": "Les implications de la robotique dans l'industrie manufacturière",
+      "samary": "Une analyse approfondie des avantages et des défis de l'utilisation de robots dans les processus de fabrication.",
+      "authors": "Prof. Jean Leclerc, Dr. Emma Dubois",
+      "institutions": "École Polytechnique, Centre de Recherche sur la Robotique Industrielle",
+      "integralText": "Cet article examine comment l'automatisation robotique peut améliorer l'efficacité et la productivité dans l'industrie manufacturière tout en discutant des considérations éthiques et sociales.",
+      "pdfUrl": "https://drive.google.com/drive/folders/1IlmqYB-Z0j7PNtnJXCkiwqMG_BSINSuM",
+      "reference": "Journal of Robotics and Automation, Volume 29, Issue 2, Pages 201-215 (2022)",
+      "keyWords": "robotique, automatisation, industrie manufacturière",
+      "category": "Ingénierie"
+    },
+    {
+      "id": "5",
+      "title": "La découverte d'une nouvelle espèce de papillon",
+      "samary": "Une étude approfondie sur la biologie et le comportement de la nouvelle espèce de papillon découverte dans la forêt amazonienne.",
+      "authors": "Dr. Marie Dupont, Dr. Pierre Martin",
+      "institutions": "Université de Paris, Institut de Recherche sur la Biodiversité",
+      "integralText": "Le texte intégral de cette étude est disponible pour les chercheurs et les amateurs de papillons. Il offre une analyse détaillée de la morphologie, du cycle de vie et de l'habitat de la nouvelle espèce.",
+      "pdfUrl": "https://drive.google.com/drive/folders/1IlmqYB-Z0j7PNtnJXCkiwqMG_BSINSuM",
+      "reference": "Nature, Volume 543, Pages 123-125 (2017)",
+      "keyWords": "papillon, biodiversité, forêt amazonienne"
+    },
+    {
+      "id": "7",
+      "title": "La découverte d'une nouvelle espèce de papillon",
+      "samary": "Une étude approfondie sur la biologie et le comportement de la nouvelle espèce de papillon découverte dans la forêt amazonienne.",
+      "authors": "Dr. Marie Dupont, Dr. Pierre Martin",
+      "institutions": "Université de Paris, Institut de Recherche sur la Biodiversité",
+      "integralText": "Le texte intégral de cette étude est disponible pour les chercheurs et les amateurs de papillons. Il offre une analyse détaillée de la morphologie, du cycle de vie et de l'habitat de la nouvelle espèce.",
+      "pdfUrl": "https://drive.google.com/drive/folders/1IlmqYB-Z0j7PNtnJXCkiwqMG_BSINSuM",
+      "reference": "Nature, Volume 543, Pages 123-125 (2017)",
+      "keyWords": "papillon, biodiversité, forêt amazonienne",
+      "category": "Biologie"
+    },
+    {
+      "id": "8",
+      "title": "Les implications de la robotique dans l'industrie manufacturière",
+      "samary": "Une analyse approfondie des avantages et des défis de l'utilisation de robots dans les processus de fabrication.",
+      "authors": "Prof. Jean Leclerc, Dr. Emma Dubois",
+      "institutions": "École Polytechnique, Centre de Recherche sur la Robotique Industrielle",
+      "integralText": "Cet article examine comment l'automatisation robotique peut améliorer l'efficacité et la productivité dans l'industrie manufacturière tout en discutant des considérations éthiques et sociales.",
+      "pdfUrl": "https://drive.google.com/drive/folders/1IlmqYB-Z0j7PNtnJXCkiwqMG_BSINSuM",
+      "reference": "Journal of Robotics and Automation, Volume 29, Issue 2, Pages 201-215 (2022)",
+      "keyWords": "robotique, automatisation, industrie manufacturière",
+      "category": "Ingénierie"
+    },
+    {
+      "title": "Amine d'une nouvelle espèce de papillon",
+      "samary": "Une étude approfondie sur la biologie et le comportement de la nouvelle espèce de papillon découverte dans la forêt amazonienne.",
+      "authors": "Dr. Marie Dupont, Dr. Pierre Martin",
+      "institutions": "Université de Paris, Institut de Recherche sur la Biodiversité",
+      "integralText": "Le texte intégral de cette étude est disponible pour les chercheurs et les amateurs de papillons. Il offre une analyse détaillée de la morphologie, du cycle de vie et de l'habitat de la nouvelle espèce.",
+      "pdfUrl": "https://drive.google.com/file/d/19iwQ6RAikVDVJ9AWRt9wi9p1or5VUjIU/view",
+      "reference": "Nature, Volume 543, Pages 123-125 (2017)",
+      "id": "EwlfxN_"
+    },
+    {
+      "title": "Amine d'une nouvelle espèce de papillon",
+      "samary": "Une étude approfondie sur la biologie et le comportement de la nouvelle espèce de papillon découverte dans la forêt amazonienne.",
+      "authors": "Dr. Marie Dupont, Dr. Pierre Martin",
+      "institutions": "Université de Paris, Institut de Recherche sur la Biodiversité",
+      "integralText": "Le texte intégral de cette étude est disponible pour les chercheurs et les amateurs de papillons. Il offre une analyse détaillée de la morphologie, du cycle de vie et de l'habitat de la nouvelle espèce.",
+      "pdfUrl": "https://drive.google.com/file/d/19iwQ6RAikVDVJ9AWRt9wi9p1or5VUjIU/view",
+      "reference": "Nature, Volume 543, Pages 123-125 (2017)",
+      "id": "mWXnTuC"
+    },
+    {
+      "title": "Amine d'une nouvelle espèce de papillon",
+      "samary": "Une étude approfondie sur la biologie et le comportement de la nouvelle espèce de papillon découverte dans la forêt amazonienne.",
+      "authors": "Dr. Marie Dupont, Dr. Pierre Martin",
+      "institutions": "Université de Paris, Institut de Recherche sur la Biodiversité",
+      "integralText": "Le texte intégral de cette étude est disponible pour les chercheurs et les amateurs de papillons. Il offre une analyse détaillée de la morphologie, du cycle de vie et de l'habitat de la nouvelle espèce.",
+      "pdfUrl": "https://drive.google.com/file/d/19iwQ6RAikVDVJ9AWRt9wi9p1or5VUjIU/view",
+      "reference": "Nature, Volume 543, Pages 123-125 (2017)",
+      "id": "x16GMyb"
+    },
+    {
+      "title": "Les implications de la robotique dans l'industrie manufacturière",
+      "samary": "Une analyse approfondie des avantages et des défis de l'utilisation de robots dans les processus de fabrication.",
+      "authors": "Prof. Jean Leclerc, Dr. Emma Dubois",
+      "institutions": "École Polytechnique, Centre de Recherche sur la Robotique Industrielle",
+      "integralText": "Cet article examine comment l'automatisation robotique peut améliorer l'efficacité et la productivité dans l'industrie manufacturière tout en discutant des considérations éthiques et sociales.",
+      "pdfUrl": "https://drive.google.com/drive/folders/1IlmqYB-Z0j7PNtnJXCkiwqMG_BSINSuM",
+      "reference": "Journal of Robotics and Automation, Volume 29, Issue 2, Pages 201-215 (2022)",
+      "id": "Yd0T7sS"
+    },
+    {
+      "title": "Amine d'une nouvelle espèce de papillon",
+      "samary": "Une étude approfondie sur la biologie et le comportement de la nouvelle espèce de papillon découverte dans la forêt amazonienne.",
+      "authors": "Dr. Marie Dupont, Dr. Pierre Martin",
+      "institutions": "Université de Paris, Institut de Recherche sur la Biodiversité",
+      "integralText": "Le texte intégral de cette étude est disponible pour les chercheurs et les amateurs de papillons. Il offre une analyse détaillée de la morphologie, du cycle de vie et de l'habitat de la nouvelle espèce.",
+      "pdfUrl": "https://drive.google.com/file/d/19iwQ6RAikVDVJ9AWRt9wi9p1or5VUjIU/view",
+      "reference": "Nature, Volume 543, Pages 123-125 (2017)",
+      "category": "Ingénierie",
+      "id": "wfubuD6"
+    },
+    {
+      "title": "Amine d'une nouvelle espèce de papillon",
+      "samary": "Une étude approfondie sur la biologie et le comportement de la nouvelle espèce de papillon découverte dans la forêt amazonienne.",
+      "authors": "Dr. Marie Dupont, Dr. Pierre Martin",
+      "institutions": "Université de Paris, Institut de Recherche sur la Biodiversité",
+      "integralText": "Le texte intégral de cette étude est disponible pour les chercheurs et les amateurs de papillons. Il offre une analyse détaillée de la morphologie, du cycle de vie et de l'habitat de la nouvelle espèce.",
+      "pdfUrl": "https://drive.google.com/file/d/19iwQ6RAikVDVJ9AWRt9wi9p1or5VUjIU/view",
+      "reference": "Nature, Volume 543, Pages 123-125 (2017)",
+      "category": "Ingénierie",
+      "id": "lWSUsUu"
+    },
+    {
+      "title": "Amine d'une nouvelle espèce de papillon",
+      "samary": "Une étude approfondie sur la biologie et le comportement de la nouvelle espèce de papillon découverte dans la forêt amazonienne.",
+      "authors": "Dr. Marie Dupont, Dr. Pierre Martin",
+      "institutions": "Université de Paris, Institut de Recherche sur la Biodiversité",
+      "integralText": "Le texte intégral de cette étude est disponible pour les chercheurs et les amateurs de papillons. Il offre une analyse détaillée de la morphologie, du cycle de vie et de l'habitat de la nouvelle espèce.",
+      "pdfUrl": "https://drive.google.com/file/d/19iwQ6RAikVDVJ9AWRt9wi9p1or5VUjIU/view",
+      "reference": "Nature, Volume 543, Pages 123-125 (2017)",
+      "category": "Ingénierie",
+      "id": "aCSSlR9"
+    },
+    {
+      "title": "Amine d'une nouvelle espèce de papillon",
+      "samary": "Une étude approfondie sur la biologie et le comportement de la nouvelle espèce de papillon découverte dans la forêt amazonienne.",
+      "authors": "Dr. Marie Dupont, Dr. Pierre Martin",
+      "institutions": "Université de Paris, Institut de Recherche sur la Biodiversité",
+      "integralText": "Le texte intégral de cette étude est disponible pour les chercheurs et les amateurs de papillons. Il offre une analyse détaillée de la morphologie, du cycle de vie et de l'habitat de la nouvelle espèce.",
+      "pdfUrl": "https://drive.google.com/file/d/19iwQ6RAikVDVJ9AWRt9wi9p1or5VUjIU/view",
+      "reference": "Nature, Volume 543, Pages 123-125 (2017)",
+      "category": "Ingénierie",
+      "id": "vbfPK6R"
+    },
+    {
+      "title": "Les implications de la robotique dans l'industrie manufacturière",
+      "samary": "Une analyse approfondie des avantages et des défis de l'utilisation de robots dans les processus de fabrication.",
+      "authors": "Prof. Jean Leclerc, Dr. Emma Dubois",
+      "institutions": "École Polytechnique, Centre de Recherche sur la Robotique Industrielle",
+      "integralText": "Cet article examine comment l'automatisation robotique peut améliorer l'efficacité et la productivité dans l'industrie manufacturière tout en discutant des considérations éthiques et sociales.",
+      "pdfUrl": "https://drive.google.com/drive/folders/1IlmqYB-Z0j7PNtnJXCkiwqMG_BSINSuM",
+      "reference": "Journal of Robotics and Automation, Volume 29, Issue 2, Pages 201-215 (2022)",
+      "id": "QwmNZQq"
+    },
+    {
+      "title": "La découverte d'une nouvelle espèce de papillon",
+      "samary": "Une étude approfondie sur la biologie et le comportement de la nouvelle espèce de papillon découverte dans la forêt amazonienne.",
+      "authors": "Dr. Marie Dupont, Dr. Pierre Martin",
+      "institutions": "Université de Paris, Institut de Recherche sur la Biodiversité",
+      "integralText": "Le texte intégral de cette étude est disponible pour les chercheurs et les amateurs de papillons. Il offre une analyse détaillée de la morphologie, du cycle de vie et de l'habitat de la nouvelle espèce.",
+      "pdfUrl": "https://drive.google.com/drive/folders/1IlmqYB-Z0j7PNtnJXCkiwqMG_BSINSuM",
+      "reference": "Nature, Volume 543, Pages 123-125 (2017)",
+      "category": "Biologie",
+      "id": "_eXGdaI"
+    },
+    {
+      "title": "Amine d'une nouvelle espèce de papillon",
+      "samary": "Une étude approfondie sur la biologie et le comportement de la nouvelle espèce de papillon découverte dans la forêt amazonienne.",
+      "authors": "Dr. Marie Dupont, Dr. Pierre Martin",
+      "institutions": "Université de Paris, Institut de Recherche sur la Biodiversité",
+      "integralText": "Le texte\n intégral de cette étude est disponible pour les \nchercheurs et les amateurs de papillons.\n Il offre une analyse détaillée de la morphologie\n, du cycle de vie et de l'habitat de \n la nouvelle \nespèce.",
+      "pdfUrl": "https://drive.google.com/file/d/19iwQ6RAikVDVJ9AWRt9wi9p1or5VUjIU/view",
+      "reference": "Nature, Volume 543, Pages 123-125 (2017)",
+      "category": "Ingénierie",
+      "id": "a4mH4zJ"
+    },
+    {
+      "title": "Les implications de la robotique dans l'industrie manufacturière",
+      "samary": "Une analyse approfondie des avantages et des défis de l'utilisation de robots dans les processus de fabrication.",
+      "authors": "Prof. Jean Leclerc, Dr. Emma Dubois",
+      "institutions": "École Polytechnique, Centre de Recherche sur la Robotique Industrielle",
+      "integralText": "Cet article examine comment l'automatisation robotique peut améliorer l'efficacité et la productivité dans l'industrie manufacturière tout en discutant des considérations éthiques et sociales.",
+      "pdfUrl": "https://drive.google.com/drive/folders/1IlmqYB-Z0j7PNtnJXCkiwqMG_BSINSuM",
+      "reference": "Journal of Robotics and Automation, Volume 29, Issue 2, Pages 201-215 (2022)",
+      "id": "wKOPK0G"
+    }
+  ]
+}
